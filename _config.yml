@@ -1,6 +1,6 @@
 # Site settings
 title: Artur Przychodzeń
-twitter_username: rob_hinds
+twitter_username: artur2p
 name: Artur Przychodzeń
 
 # Build settings
@@ -9,20 +9,16 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/arturP
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: http://stackoverflow.com/users/473240/artur-p
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/artur-przychodze%C5%84-a2816144/
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
+ - JAVA
  - Spring MVC
  - Spring Boot
  - Gradle
@@ -31,9 +27,6 @@ skills:
  - SQL
  - REST
  - Tech Architecture
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
