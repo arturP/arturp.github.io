@@ -52,6 +52,11 @@ roles:
    end: 2009
    employer: General Electric
    description: 
+ - title: Software Engineer
+   start: 1999
+   end: 2004
+   employer: Marine Technology Centre in Gdynia
+   description: 
 
 #Education is required
 education:
