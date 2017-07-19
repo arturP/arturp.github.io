@@ -18,15 +18,22 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - JAVA
- - Spring MVC
- - Spring Boot
- - Gradle
  - Java
+ - Spring
+ - Spring Boot
+ - Dropwizard
+ - REST
+ - Big Data
+ - Hadoop
+ - Kafka
  - JPA
  - SQL
- - REST
- - Tech Architecture
+ - Maven
+ - OSB
+ - C#
+ - C++
+ - Git
+ - Agile
 
 #Work experience is required
 roles:
@@ -80,11 +87,6 @@ github:
  - robhinds/SpringNeo4JWebApp
  - robhinds/AndroidChuckQuiz
  - robhinds/AndroidRssReader
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
 apps:
